@@ -4,7 +4,7 @@ This repository contains automated functional end-to-end (E2E) tests for the Far
 
  🌐 Access the app through this link 👉 [Farfetch App](https://play.google.com/store/apps/details?id=com.farfetch.farfetchshop&hl=en&gl=US)
 
-![image](https://github.com/henriquekoaski/Farfecth-Mobile-Automated-Tests/assets/135274801/c055b4c5-db41-4a08-a25a-a0157f014bd2)
+<img width="724" height="313" alt="image" src="https://github.com/user-attachments/assets/bae99b82-8a86-47a5-93a5-d92ec13d6f52" style="border-radius: 8px;" />
 
 
 ## 🧭 Overview
